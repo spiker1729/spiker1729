@@ -3,7 +3,7 @@
 <img src="https://i.gifer.com/A7nW.mp4" style="float:right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spiker1729&label=Profile%20views&color=0e75b6&style=flat" alt="spiker1729" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spiker1729" alt="spiker1729" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://c.tenor.com/i_mBpdOircwAAAAC/dead-chat-xd.gif" /></a> </p>
 
 - 🔭 I’m currently working on **ELLECTIVE REGISTRATION PAGE**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRADUMN YADAV</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.gifer.com/A7nW.mp4" style="float:right" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spiker1729&label=Profile%20views&color=0e75b6&style=flat" alt="spiker1729" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spiker1729&label=Profile%20views&color=0e75b6&style=flat" alt="spiker1729" style="align="left"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://c.tenor.com/i_mBpdOircwAAAAC/dead-chat-xd.gif" /></a> </p>
 

@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://c.tenor.com/i_mBpdOircwAAAAC/dead-chat-xd.gif" /></a> </p>
 
-- 🔭 I’m currently working on **ELLECTIVE REGISTRATION PAGE**
+- 🔭 I’m currently working on **BUilding my portfolio website**
 
 - 📫 How to reach me **21MCMC30@UOHYD.AC.IN**
 

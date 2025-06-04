@@ -74,6 +74,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/spiker1729/spiker1729/blob/main/snake.svg" alt="snake gif" />
+</p>
 
 ---
 

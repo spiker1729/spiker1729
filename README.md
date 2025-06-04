@@ -1,26 +1,85 @@
-<h1 align="center">Hi 👋, I'm PRADUMN YADAV</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.gifer.com/A7nW.mp4" style="float:right" />
-
-
-<p align="left"><img src="https://c.tenor.com/i_mBpdOircwAAAAC/dead-chat-xd.gif" /></a> </p>
-
-- 🔭 I’m currently working on **BUilding my portfolio website**
-
-- 📫 How to reach me **21MCMC30@UOHYD.AC.IN**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradumn-yadav-986a03226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradumn-yadav-986a03226" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pn1729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pn1729" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pradumnyadav74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pradumnyadav74" height="30" width="40" /></a>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+PRADUMN+YADAV;Frontend+Developer+from+India;Passionate+about+UI%2FUX+Design" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<!-- Visitor Count Badge -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/spiker1729/count.svg" alt="Visitor Count" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiker1729&show_icons=true&locale=en&layout=compact" alt="spiker1729" /></p>
+<!-- Profile GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Profile GIF" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiker1729&show_icons=true&locale=en" alt="spiker1729" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiker1729&" alt="spiker1729" /></p>
+### 🔭 Currently Working On
+- Building my audio dubbing software
+
+### 📫 Contact Me
+- Email: [pradumnyadavallexam@gmail.com](mailto:pradumnyadavallexam@gmail.com)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/pradumn-yadav-986a03226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/pn1729" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/pradumnyadav74" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiker1729&layout=compact&theme=transparent&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=spiker1729&show_icons=true&theme=transparent&bg_color=00000000" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiker1729&theme=transparent&bg_color=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spiker1729&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+---
+
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/spiker1729/spiker1729/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+ 
